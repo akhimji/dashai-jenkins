@@ -60,4 +60,5 @@ pipeline-input-step:2.8
 workflow-cps:2.39
 script-security:1.31
 
-
+#DashAi-InfluxDB
+influxdb:1.12.3

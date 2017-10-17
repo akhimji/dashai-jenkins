@@ -17,7 +17,8 @@ MAINTAINER Ben Parees <bparees@redhat.com>
 ENV JENKINS_VERSION=2.69 \
     HOME=/var/lib/jenkins \
     JENKINS_HOME=/var/lib/jenkins \
-    JENKINS_UC=https://updates.jenkins-ci.org
+    JENKINS_UC=https://updates.jenkins-ci.org \
+    JENKINS_PASSWORD=admin
 
 ENV EXPOSECONTROLLER_VERSION 2.3.27
 
