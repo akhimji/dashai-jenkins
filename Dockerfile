@@ -1,4 +1,4 @@
-FROM centos:centos7
+FROM centos:latest
 
 # Jenkins image for OpenShift
 #
